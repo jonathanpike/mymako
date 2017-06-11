@@ -41,7 +41,7 @@ a:hover{
 }
 
 #quick-nav {
-  background-color: #994F8E;
+  background-color: $pd-banner-light;
   max-width: 650px;
   margin: auto;
   margin-top:5px;
@@ -61,7 +61,7 @@ a.quick-nav-item {
 }
 
 a.quick-nav-item:hover { 
-  color: #400136;
+  color: $pd-banner-dark;
 }
 
 .circle { 
