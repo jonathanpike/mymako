@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'mako', :git => 'https://github.com/jonathanpike/mako'
+gem 'mako_rss'
