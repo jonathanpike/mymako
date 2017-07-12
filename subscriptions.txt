@@ -15,3 +15,11 @@ http://inessential.com/xml/rss.xml
 http://scripting.com/rss.xml
 https://www.speedshop.co/feed.xml
 https://tenderlovemaking.com/atom.xml
+https://512pixels.net/feed/
+http://tidbits.com/feeds/tidbits_blurb.rss
+http://blog.testdouble.com/index.xml
+http://tenderlovemaking.com/atom.xml
+http://feeds2.feedburner.com/patshaughnessy
+https://m.signalvnoise.com/feed
+http://feeds.feedburner.com/buckblog
+https://medium.com/feed/@searls
