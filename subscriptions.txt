@@ -23,3 +23,6 @@ http://feeds2.feedburner.com/patshaughnessy
 https://m.signalvnoise.com/feed
 http://feeds.feedburner.com/buckblog
 https://medium.com/feed/@searls
+https://alistapart.com/main/feed
+https://petrolicious.com/articles/feed/
+https://petrolicious.com/films/feed/
