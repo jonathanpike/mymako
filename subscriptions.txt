@@ -26,3 +26,4 @@ https://medium.com/feed/@searls
 https://alistapart.com/main/feed
 https://petrolicious.com/articles/feed/
 https://petrolicious.com/films/feed/
+http://feeds.kottke.org/main
