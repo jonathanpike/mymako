@@ -25,3 +25,4 @@ http://feeds.feedburner.com/buckblog
 https://medium.com/feed/@searls
 https://alistapart.com/main/feed
 http://feeds.kottke.org/main
+http://sethgodin.typepad.com/seths_blog/atom.xml
