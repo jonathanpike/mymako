@@ -15,7 +15,7 @@ GEM
       multi_xml (>= 0.5.2)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
-    mako_rss (0.2.2)
+    mako_rss (0.2.3)
       feedjira (~> 2.0)
       httparty (~> 0.15)
       nokogiri (~> 1.8)
