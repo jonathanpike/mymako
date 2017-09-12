@@ -16,7 +16,6 @@ http://scripting.com/rss.xml
 https://www.speedshop.co/feed.xml
 https://tenderlovemaking.com/atom.xml
 https://512pixels.net/feed/
-http://tidbits.com/feeds/tidbits_blurb.rss
 http://blog.testdouble.com/index.xml
 http://tenderlovemaking.com/atom.xml
 http://feeds2.feedburner.com/patshaughnessy
@@ -25,4 +24,4 @@ http://feeds.feedburner.com/buckblog
 https://medium.com/feed/@searls
 https://alistapart.com/main/feed
 http://feeds.kottke.org/main
-http://sethgodin.typepad.com/seths_blog/atom.xml
+http://feeds.feedblitz.com/SethsBlog
