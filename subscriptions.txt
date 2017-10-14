@@ -24,3 +24,4 @@ https://medium.com/feed/@searls
 https://alistapart.com/main/feed
 http://feeds.kottke.org/main
 http://feeds.feedblitz.com/SethsBlog
+feed://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
