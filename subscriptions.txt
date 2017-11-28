@@ -21,7 +21,9 @@ http://feeds2.feedburner.com/patshaughnessy
 https://m.signalvnoise.com/feed
 http://feeds.feedburner.com/buckblog
 https://medium.com/feed/@searls
-https://alistapart.com/main/feed
 http://feeds.kottke.org/main
 http://feeds.feedblitz.com/SethsBlog
-http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
+https://streetxsprezza.wordpress.com/feed/
+http://dieworkwear.com/rss
+http://hespokestyle.com/feed/
+http://putthison.com/rss
