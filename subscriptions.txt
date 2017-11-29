@@ -4,7 +4,6 @@ https://marco.org/rss
 http://blog.joshualongbrake.com/rss
 http://furbo.org/feed/
 http://leancrew.com/all-this/feed/
-http://rss.desiringgod.org
 http://gilandamy.blogspot.com/feeds/posts/default?alt=rss
 https://www.challies.com/feed
 http://karbonbased.io/index.xml
@@ -12,7 +11,6 @@ https://panic.com/blog/feed/
 https://www.schneems.com/feed.xml
 http://rideearth.net/feed/
 http://inessential.com/xml/rss.xml
-http://scripting.com/rss.xml
 https://www.speedshop.co/feed.xml
 https://512pixels.net/feed/
 http://blog.testdouble.com/index.xml
