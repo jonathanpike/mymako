@@ -25,3 +25,4 @@ https://streetxsprezza.wordpress.com/feed/
 http://dieworkwear.com/rss
 http://hespokestyle.com/feed/
 http://putthison.com/rss
+https://ruby-on-wheels.github.io
