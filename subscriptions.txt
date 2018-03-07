@@ -25,6 +25,5 @@ https://streetxsprezza.wordpress.com/feed/
 http://dieworkwear.com/rss
 http://hespokestyle.com/feed/
 http://putthison.com/rss
-https://ruby-on-wheels.github.io
 https://brandur.org/articles.atom
 https://ruby-on-wheels.github.io/feed.xml
