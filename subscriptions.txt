@@ -29,3 +29,4 @@ https://ruby-on-wheels.github.io/feed.xml
 https://thismombikes.net/feed/
 http://shifter.info/feed/
 https://theradavist.com/feed/
+http://www.larryvsharry.com/feed/
