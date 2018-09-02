@@ -13,7 +13,6 @@ http://rideearth.net/feed/
 http://inessential.com/xml/rss.xml
 https://www.speedshop.co/feed.xml
 https://512pixels.net/feed/
-http://blog.testdouble.com/index.xml
 http://tenderlovemaking.com/atom.xml
 http://feeds2.feedburner.com/patshaughnessy
 https://m.signalvnoise.com/feed
@@ -21,12 +20,9 @@ http://feeds.feedburner.com/buckblog
 https://medium.com/feed/@searls
 http://feeds.feedblitz.com/SethsBlog
 https://streetxsprezza.wordpress.com/feed/
-http://dieworkwear.com/rss
 http://hespokestyle.com/feed/
-http://putthison.com/rss
 https://brandur.org/articles.atom
 https://ruby-on-wheels.github.io/feed.xml
 https://thismombikes.net/feed/
 http://shifter.info/feed/
-https://theradavist.com/feed/
 http://www.larryvsharry.com/feed/
