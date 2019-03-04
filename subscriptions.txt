@@ -25,3 +25,4 @@ https://brandur.org/articles.atom
 https://ruby-on-wheels.github.io/feed.xml
 https://thismombikes.net/feed/
 http://shifter.info/feed/
+https://www.coldbike.com/feed/
